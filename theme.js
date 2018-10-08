@@ -6,7 +6,7 @@ export default {
 	colors: {
 		text: '#122D42',
 		background: '#fff',
-		link: '#46FF90'
+		link: '#00E1AA'
 	}
 	// Customize your presentation theme here.
 	//
